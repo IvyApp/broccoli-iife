@@ -1,5 +1,7 @@
 # broccoli-iife
 
+[![Build Status](https://travis-ci.org/IvyApp/broccoli-iife.svg?branch=master)](https://travis-ci.org/IvyApp/broccoli-iife)
+
 Broccoli filter to wrap files inside an
 [Immediately-invoked function expression][IIFE] (IIFE).
 
