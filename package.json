@@ -1,0 +1,30 @@
+{
+  "name": "broccoli-iife",
+  "version": "0.1.0",
+  "description": "IIFE (Immediately-invoked function expression) filter for Broccoli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvyApp/broccoli-iife"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ],
+  "author": "Dray Lacy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvyApp/broccoli-iife/issues"
+  },
+  "homepage": "https://github.com/IvyApp/broccoli-iife",
+  "dependencies": {
+    "broccoli-filter": "^0.1.10"
+  },
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "mocha": "^2.0.1",
+    "should": "^4.4.0"
+  }
+}
